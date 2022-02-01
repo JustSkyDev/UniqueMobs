@@ -1,7 +1,7 @@
 MIT License
 
 ```diff
-- Copyright © 2021 Loxzer X
+- Copyright © 2022 JustSky
 ```
 ```text
 1. JANGAN COPY DATA ADDDON/TEXTURE/SHADER/SCRIPT DARIKU
@@ -11,4 +11,4 @@ MIT License
 5. AKU BISA SAJA TAKE DOWN LINK MAUPUN KONTEN  
 ```
 
-> **[Kembali Ke Awal](https://github.com/LoxzerX/Addon-OP-Rain)**
+> **[Kembali Ke Awal](https://github.com/JustSkyDev/UniqueMobs)**
