@@ -19,18 +19,16 @@
 
    
 <p align="center">
-<a>
-    <img src="IMG_20211228_144938.jpg">
-</a>
+
 
   <h3 align="center">Official JustSky</h3>
 
   <p align="center">
     Official GitHub Page Of JustSky
     <br>
-    <a href="https://github.com/JustSkyDev/Addon-OP-Rain/issues">Bug Report</a>
+    <a href="https://github.com/JustSkyDev/UniqueMobs/issues">Bug Report</a>
     ·
-    <a href="https://github.com/JustSkyDev/Addon-OP-Rain/pulls">Request Feature</a>
+    <a href="https://github.com/JustSkyDev/UniqueMobs/pulls">Request Feature</a>
   </p>
 </p>
 </p>
@@ -93,8 +91,8 @@
 
 ## Bugs And Feature Requests
 
-> **[Bug Report](https://github.com/JustSkyDev/Addon-OP-Rain/issues)** <br />
-> **[Request Feature](https://github.com/JustSkyDev/Addon-OP-Rain/pulls)**
+> **[Bug Report](https://github.com/JustSkyDev/UniqueMobs/issues)** <br />
+> **[Request Feature](https://github.com/JustSkyDev/UniqueMobs/pulls)**
 
 ## Beli Icon Rank
 <p align="center">
@@ -108,5 +106,5 @@ _Harga 5K Dapet 4 Icon + Cara Pemasangan_<br />
 
 ## Copyright and license
 
-Must Read [MIT License](https://github.com/JustSkyDev/Addon-OP-Rain/blob/data/LICENSE.md)
+Must Read [MIT License](https://github.com/JustSkyDev/UniqueMobs/blob/data/LICENSE.md)
 <p>Only Available On id_ID Language</p>
